@@ -1,4 +1,9 @@
-#table{
-    width: 90%;
-    border: 5px;
+td{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.headone{
+    color: darkgreen;
+
 }
