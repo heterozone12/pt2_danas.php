@@ -12,6 +12,7 @@
   h1{
     color:#001C04;
     text-shadow: 2px 3px 5px white;
+    font-size:60px;
   }
   
   label,input{
@@ -30,13 +31,15 @@
       border-radius: 8px;
       padding: 30px;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      width: 300px;
+      width: 600px;
+      height:500px;
       margin: 0 auto;
     color:#00191C;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    
+    font-size:40px;
   }
+  
   b{
     color:#003205;
   }
